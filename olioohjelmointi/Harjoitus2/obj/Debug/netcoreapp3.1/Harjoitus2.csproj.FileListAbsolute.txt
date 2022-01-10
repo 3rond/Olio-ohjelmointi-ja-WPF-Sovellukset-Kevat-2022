@@ -1,0 +1,14 @@
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.exe
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.deps.json
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.runtimeconfig.json
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.runtimeconfig.dev.json
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.dll
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.pdb
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.csproj.AssemblyReference.cache
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.AssemblyInfoInputs.cache
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.AssemblyInfo.cs
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.csproj.CoreCompileInputs.cache
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.dll
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.pdb
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.genruntimeconfig.cache
