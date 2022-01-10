@@ -30,7 +30,7 @@ namespace harjoitus3
                 Console.WriteLine("kiuas" + Nimi + " ei ole päällä");
             }
         }
-        public void säädälämpötila(itn uusilämpötila)
+        public void säädälämpötila(int uusilämpötila)
         {
             Lämpötila = uusilämpötila; 
         }
