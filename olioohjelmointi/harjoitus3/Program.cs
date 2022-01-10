@@ -10,6 +10,11 @@ namespace harjoitus3
             kiuas kiuas2 = new kiuas("tylö", 90, 10);
             kiuas kiuas3 = new kiuas("helo", 70, 30);
 
+            
+            kiuas1.näytätiedot();
+            kiuas1.Tila = true;
+            kiuas1.näytätiedot();
+            kiuas1.säädälämpötila(230);
             kiuas1.näytätiedot();
             kiuas2.näytätiedot();
             kiuas3.näytätiedot();

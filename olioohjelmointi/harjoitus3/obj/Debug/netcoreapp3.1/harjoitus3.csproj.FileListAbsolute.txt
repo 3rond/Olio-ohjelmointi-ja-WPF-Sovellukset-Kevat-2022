@@ -11,3 +11,4 @@ C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmo
 C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\harjoitus3\obj\Debug\netcoreapp3.1\harjoitus3.dll
 C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\harjoitus3\obj\Debug\netcoreapp3.1\harjoitus3.pdb
 C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\harjoitus3\obj\Debug\netcoreapp3.1\harjoitus3.genruntimeconfig.cache
+C:\Users\erond.dumani\OneDrive - Careeria\Tiedostot\Uusi kansio (3)\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\harjoitus3\obj\Debug\netcoreapp3.1\harjoitus3.csproj.AssemblyReference.cache
