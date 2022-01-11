@@ -9,10 +9,18 @@ namespace perintä
         public int opiskelijaID;
         public string koulu;
 
+        private static int instanssit = 0;
         public opiskelija(string nimi, int ikä, int henkilötunnus, int _opsikelijaID, string _koulu) : base(nimi, ikä, henkilötunnus)
         {
             opiskelijaID = _opsikelijaID;
             koulu = _koulu;
+
+            instanssit++;
+
+        }
+        public static void KuinkaMontaOpiskelijaa()
+        {
+            Console.WriteLine("opiskelijaa olemassa: " + instanssit);
         }
 
         //override ylilukee henkilö luokan "tulostustiedot metodin

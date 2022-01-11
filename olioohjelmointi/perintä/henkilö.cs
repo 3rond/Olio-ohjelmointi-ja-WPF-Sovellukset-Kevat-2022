@@ -10,11 +10,15 @@ namespace perintä
         public int Ikä;
         public int Henkilötunnus;
 
+        private static int instanssit = 0; // henkilön staattinen muuttuja joilla voidaan laskea kuinka monta henkilö on luotu
+
         public henkilö(string nimi, int ikä, int henkilötunnus)
         {
             Nimi = nimi;
             Ikä = ikä;
             Henkilötunnus = henkilötunnus;
+
+            instanssit++; 
         }
 
         //virtalinen metodi jota voidaan ylilukea (override ) aliluokissa
@@ -29,6 +33,11 @@ namespace perintä
         }
         public void juo()
         { Console.WriteLine(Nimi + "juo vettä");
+        }
+
+        public static void KuinkaMontaHenkilöä()
+        {
+            Console.WriteLine("henkilöitä olemassa: " + instanssit);
         }
     }
 }
