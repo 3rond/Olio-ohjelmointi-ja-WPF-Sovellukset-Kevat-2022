@@ -13,7 +13,8 @@ namespace harjoitus_8
             
             pomo1.pomontiedot();
             työntekijä1.työntekijätiedot();
-            pomo1.hei();
+            pomo.KuinkaMonta();
+            henkilö.KuinkaMonta();
 
         }
     }

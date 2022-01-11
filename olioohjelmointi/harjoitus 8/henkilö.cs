@@ -10,10 +10,21 @@ namespace harjoitus_8
         public abstract string Työpaikka { get; set; }
         public abstract int Palkka { get; set; }
 
-        
+        private static int instanssi = 1;
+
+        protected henkilö()
+        {
+            instanssi++;
+        }
+
         public void NäytäTiedot()
         {
             Console.WriteLine("nimi : " + Nimi +" työpaikka " + Työpaikka + " palkka " + Palkka);
+        }
+        public static void KuinkaMonta()
+        {
+
+            Console.WriteLine("henkilöitä on " + instanssi);
         }
 
     }

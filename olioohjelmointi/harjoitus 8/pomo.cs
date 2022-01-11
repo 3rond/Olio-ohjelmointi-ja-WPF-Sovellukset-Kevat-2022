@@ -13,18 +13,24 @@ namespace harjoitus_8
         public int bonus;
         public string auto;
 
-        public int instanssi = 1;
+        private static int instanssi = 1;
         public pomo()
         {
+            if (instanssi >0)
+            {
+                Console.WriteLine("pomo on jo olemassa ei voidaan luoda uuden ");
+                return;
+            }
             instanssi++;
            
         }
-        public void hei()
+        public static new void KuinkaMonta()
         {
-            Console.WriteLine("pomoja on vain" + instanssi);
-                }
 
-        
+            Console.WriteLine("pomoja on " + instanssi);
+        }
+
+
 
         public pomo(string nimi, string työpaikka, int palkka, int bonus, string auto)
         {

@@ -28,7 +28,7 @@ namespace harjoitus_8
 
         public void työntekijätiedot()
         {
-            Console.WriteLine("nimi on " + Nimi + "työpaikka " + Työpaikka + " palkka on " + Palkka +"viikkotunnit" + viikkoTunnit);
+            Console.WriteLine("nimi on " + Nimi + "työpaikka " + Työpaikka + " palkka on " + Palkka +" viikkotunnit " + viikkoTunnit);
         }
     }
 }
