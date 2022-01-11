@@ -1,0 +1,14 @@
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\bin\Debug\netcoreapp3.1\static esimerkki.exe
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\bin\Debug\netcoreapp3.1\static esimerkki.deps.json
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\bin\Debug\netcoreapp3.1\static esimerkki.runtimeconfig.json
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\bin\Debug\netcoreapp3.1\static esimerkki.runtimeconfig.dev.json
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\bin\Debug\netcoreapp3.1\static esimerkki.dll
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\bin\Debug\netcoreapp3.1\static esimerkki.pdb
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\obj\Debug\netcoreapp3.1\static esimerkki.csproj.AssemblyReference.cache
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\obj\Debug\netcoreapp3.1\static esimerkki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\obj\Debug\netcoreapp3.1\static esimerkki.AssemblyInfoInputs.cache
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\obj\Debug\netcoreapp3.1\static esimerkki.AssemblyInfo.cs
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\obj\Debug\netcoreapp3.1\static esimerkki.csproj.CoreCompileInputs.cache
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\obj\Debug\netcoreapp3.1\static esimerkki.dll
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\obj\Debug\netcoreapp3.1\static esimerkki.pdb
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\static esimerkki\obj\Debug\netcoreapp3.1\static esimerkki.genruntimeconfig.cache

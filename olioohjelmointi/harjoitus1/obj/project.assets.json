@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erond.dumani\\OneDrive - Careeria\\Tiedostot\\Uusi kansio (3)\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olioohjelmointi\\harjoitus1\\harjoitus1.csproj",
+      "projectUniqueName": "C:\\Users\\erond.dumani\\Source\\Repos\\3rond\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olioohjelmointi\\harjoitus1\\harjoitus1.csproj",
       "projectName": "harjoitus1",
-      "projectPath": "C:\\Users\\erond.dumani\\OneDrive - Careeria\\Tiedostot\\Uusi kansio (3)\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olioohjelmointi\\harjoitus1\\harjoitus1.csproj",
+      "projectPath": "C:\\Users\\erond.dumani\\Source\\Repos\\3rond\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olioohjelmointi\\harjoitus1\\harjoitus1.csproj",
       "packagesPath": "C:\\Users\\erond.dumani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erond.dumani\\OneDrive - Careeria\\Tiedostot\\Uusi kansio (3)\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olioohjelmointi\\harjoitus1\\obj\\",
+      "outputPath": "C:\\Users\\erond.dumani\\Source\\Repos\\3rond\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olioohjelmointi\\harjoitus1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erond.dumani\\AppData\\Roaming\\NuGet\\NuGet.Config",
