@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KokoElmat", "KokoElmat\Koko
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 11", "Harjoitus 11\Harjoitus 11.csproj", "{BE9C012A-FF93-433E-BC83-33662D09FA87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 12", "Harjoitus 12\Harjoitus 12.csproj", "{6C6A5618-F06B-41CF-B0FD-F0575EA00ADB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{BE9C012A-FF93-433E-BC83-33662D09FA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE9C012A-FF93-433E-BC83-33662D09FA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE9C012A-FF93-433E-BC83-33662D09FA87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6A5618-F06B-41CF-B0FD-F0575EA00ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6A5618-F06B-41CF-B0FD-F0575EA00ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6A5618-F06B-41CF-B0FD-F0575EA00ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6A5618-F06B-41CF-B0FD-F0575EA00ADB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
