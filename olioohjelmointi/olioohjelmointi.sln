@@ -31,7 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus 9 Radio", "harjoi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 9 (2)", "Harjoitus 9 (2)\Harjoitus 9 (2).csproj", "{1993AC40-ED72-4123-A927-F35E740B1AEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus10", "Harjoitus10\Harjoitus10.csproj", "{D8A14347-BE2E-444E-908B-0BE85B50CDA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus10", "Harjoitus10\Harjoitus10.csproj", "{D8A14347-BE2E-444E-908B-0BE85B50CDA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KokoElmat", "KokoElmat\KokoElmat.csproj", "{03E84E13-706D-4ED6-AD88-326F4147D6D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 11", "Harjoitus 11\Harjoitus 11.csproj", "{BE9C012A-FF93-433E-BC83-33662D09FA87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{D8A14347-BE2E-444E-908B-0BE85B50CDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8A14347-BE2E-444E-908B-0BE85B50CDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8A14347-BE2E-444E-908B-0BE85B50CDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E84E13-706D-4ED6-AD88-326F4147D6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E84E13-706D-4ED6-AD88-326F4147D6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E84E13-706D-4ED6-AD88-326F4147D6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E84E13-706D-4ED6-AD88-326F4147D6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9C012A-FF93-433E-BC83-33662D09FA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9C012A-FF93-433E-BC83-33662D09FA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9C012A-FF93-433E-BC83-33662D09FA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9C012A-FF93-433E-BC83-33662D09FA87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
