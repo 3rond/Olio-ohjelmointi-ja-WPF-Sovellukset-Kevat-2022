@@ -15,6 +15,6 @@ namespace Harjoitus_11
         {
             Console.WriteLine("opsikelija : " + Etunimi + " " + Sukunimi);
             Console.WriteLine(". Ryhmätunnus " + Ryhmätunnus + " opiskelijanumero" + OpsikelijaNumero);
-                }
+        }
     }
 }

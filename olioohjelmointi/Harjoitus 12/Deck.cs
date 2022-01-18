@@ -6,6 +6,5 @@ namespace Harjoitus_12
 {
     class Deck
     {
-       
     }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Harjoitus 13/1.0.0": {
+        "runtime": {
+          "Harjoitus 13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Harjoitus 13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

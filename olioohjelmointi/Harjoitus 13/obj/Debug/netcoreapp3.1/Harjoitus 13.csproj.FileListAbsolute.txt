@@ -1,0 +1,14 @@
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\bin\Debug\netcoreapp3.1\Harjoitus 13.exe
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\bin\Debug\netcoreapp3.1\Harjoitus 13.deps.json
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\bin\Debug\netcoreapp3.1\Harjoitus 13.runtimeconfig.json
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\bin\Debug\netcoreapp3.1\Harjoitus 13.runtimeconfig.dev.json
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\bin\Debug\netcoreapp3.1\Harjoitus 13.dll
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\bin\Debug\netcoreapp3.1\Harjoitus 13.pdb
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\obj\Debug\netcoreapp3.1\Harjoitus 13.csproj.AssemblyReference.cache
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\obj\Debug\netcoreapp3.1\Harjoitus 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\obj\Debug\netcoreapp3.1\Harjoitus 13.AssemblyInfoInputs.cache
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\obj\Debug\netcoreapp3.1\Harjoitus 13.AssemblyInfo.cs
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\obj\Debug\netcoreapp3.1\Harjoitus 13.csproj.CoreCompileInputs.cache
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\obj\Debug\netcoreapp3.1\Harjoitus 13.dll
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\obj\Debug\netcoreapp3.1\Harjoitus 13.pdb
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus 13\obj\Debug\netcoreapp3.1\Harjoitus 13.genruntimeconfig.cache

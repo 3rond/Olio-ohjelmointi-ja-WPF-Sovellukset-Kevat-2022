@@ -1,0 +1,15 @@
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\bin\Debug\Harjoitus16.exe.config
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\bin\Debug\Harjoitus16.exe
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\bin\Debug\Harjoitus16.pdb
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\obj\Debug\Harjoitus16.csproj.AssemblyReference.cache
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\obj\Debug\MainWindow.g.cs
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\obj\Debug\App.g.cs
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\obj\Debug\Harjoitus16_MarkupCompile.cache
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\obj\Debug\Harjoitus16_MarkupCompile.lref
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\obj\Debug\MainWindow.baml
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\obj\Debug\Harjoitus16.g.resources
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\obj\Debug\Harjoitus16.Properties.Resources.resources
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\obj\Debug\Harjoitus16.csproj.GenerateResource.cache
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\obj\Debug\Harjoitus16.csproj.CoreCompileInputs.cache
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\obj\Debug\Harjoitus16.exe
+C:\Users\erond.dumani\Source\Repos\3rond\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\Harjoitus16\obj\Debug\Harjoitus16.pdb
