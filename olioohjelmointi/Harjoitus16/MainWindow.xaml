@@ -10,7 +10,7 @@
         <Button x:Name="btn_MilesToKm" Content="Muunna Maileksi" HorizontalAlignment="Left" Margin="439,116,0,0" VerticalAlignment="Top" Width="141" Height="81" Click="btn_MilesToKm_Click"/>
         <Button x:Name="btn_KmToMiles" Content="Muunna kilometreiksi" HorizontalAlignment="Left" Margin="211,116,0,0" VerticalAlignment="Top" Width="111" Height="79" Click="btn_KmToMiles_Click"/>
         <TextBlock x:Name="TB_lopputulos" HorizontalAlignment="Left" Margin="349,259,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
-        <TextBox x:Name="txt_Input" HorizontalAlignment="Left" Height="23" Margin="315,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_Input" HorizontalAlignment="Left" Height="23" Margin="313,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>
