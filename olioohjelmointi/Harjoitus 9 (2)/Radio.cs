@@ -16,12 +16,12 @@ namespace Harjoitus_9__2_
             get { return äänenvoimakkuus; }
             set
             {
-                if(value > 9)
+                if (value > 9)
                 {
                     äänenvoimakkuus = 9;
                 }
-                else if ( value < 0)
-                    { äänenvoimakkuus = 0; }
+                else if (value < 0)
+                { äänenvoimakkuus = 0; }
                 else
                 {
                     äänenvoimakkuus = value;
@@ -29,14 +29,16 @@ namespace Harjoitus_9__2_
             }
         }
 
-        public void KanavaanYhdistetty(List<Kanava>kanavat)
+        public void KanavaanYhdistetty(List<Kanava> kanavat)
         {
             foreach (Kanava value in kanavat)
-            {
-                if (value => 108)
-                    break;
-            }
-        }
 
+                if (value.Taajuus == 108)
+
+                    break;
+
+        }
     }
+
 }
+
